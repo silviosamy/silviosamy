@@ -3,11 +3,11 @@
 
 ### About me:
 
-- 🌱 I’m currently learning Java on Udemy website throught a course. You can follow my progress on /AulasUdemy
-- 👯 I’m looking to collaborate only in my own projects for now, currently learning Java/Spring Boot and SQL.
+- 🌱 I’m currently learning Java, RDB(mySQL), Spring Boot and seeking for more
+- 👯 I’m looking to collaborate in my own projects for now, currently learning skills to become a Software Developer.
 - 📫 You can reach me on Instagram @silviosamy or LinkedIn : Silvio Samy
   
-### 📊 Estatísticas
+### 📊 Stats
 
 <p>
   <img 
