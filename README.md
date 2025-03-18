@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Java on Udemy website throught a course. You can follow my progress on /AulasUdemy
 - 👯 I’m looking to collaborate only in my own projects for now, currently learning Java/Spring Boot and SQL.
 - 📫 You can reach me on Instagram @silviosamy or LinkedIn : Silvio Samy
-- 
+  
 ### 📊 Estatísticas
 
 <p>
