@@ -1,5 +1,5 @@
-## Hi there 👋
-## Nice to meet you! Im Silvio.
+## Olá!👋
+## Bem vindo ao meu GitHub! Me chamo Silvio.
 
 ### About me:
 
