@@ -1,9 +1,9 @@
 ## Olá!👋
 ## Bem vindo ao meu GitHub! Me chamo Silvio.
 
-### About me:
+### Sobre mim:
 
-- 🌱 Atualmente estou aprendendo Java, Spring Boot e SQL.
+- 🌱 Atualmente estou aprendendo Java e C#.
 - 👯 Procurando praticar com exercícios do absoluto 0.
 - 📫 Você pode me encontrar no Instagram @silviosamy ou LinkedIn : Silvio Samy
   
