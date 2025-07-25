@@ -3,7 +3,7 @@
 
 ### Sobre mim:
 
-- 🌱 Atualmente estou aprendendo Java e C#.
+- 🌱 Atualmente estou aprendendo Java e utilizando o Spring Boot como framework
 - 👯 Procurando praticar com exercícios do absoluto 0.
 - 📫 Você pode me encontrar no Instagram @silviosamy ou LinkedIn : Silvio Samy
   
